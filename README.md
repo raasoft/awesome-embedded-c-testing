@@ -1,6 +1,6 @@
 # awesome-embedded-c-testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of delightful Embedded Systems Testing  [libraries, techniques](#packages-libraries-and-rtoses) and [references](#resources)!
+> A curated list of delightful Embedded Systems Testing  [libraries, techniques](#techs) and [references](#resources)!
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
@@ -8,14 +8,14 @@
 
 <!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:false withLinks:true -->
 
-- [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses)
-    - [TCP/IP](#tcpip)
+- [Testing Techniques](#techs)
+    - [RTOS](#rtos)
     - [CoAP](#coap)
     - [CANOpen](#canopen)
         - [Open Source](#open-source)
         - [Proprietary](#proprietary)
     - [Serialization](#serialization)
-    - [RTOS](#rtos)
+    - [RTOSs](#rtoss)
         - [Free or Open Source](#free-or-open-source)
         - [Commercial](#commercial)
     - [Testing](#testing)
@@ -34,7 +34,15 @@
 
 <!-- /TOC -->
 
-## Packages, Libraries and RTOSes
+## Testing Techniques 
+
+### RTOS
+
+To test software that uses multithreading and tasks, follow this posts:
+
+http://blog.wingman-sw.com/archives/282 
+http://blog.wingman-sw.com/archives/288 
+http://blog.wingman-sw.com/archives/303 
 
 
 ### CANOpen
