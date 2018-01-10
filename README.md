@@ -44,6 +44,24 @@ http://blog.wingman-sw.com/archives/282
 http://blog.wingman-sw.com/archives/288 
 http://blog.wingman-sw.com/archives/303 
 
+### main
+
+http://vandervoord.net/blog/2015/5/19/unit-test-how-main-
+
+### Infinite Loops
+
+http://vandervoord.net/blog/2015/5/19/unit-test-how-infinite-loops
+
+### Private data
+
+http://vandervoord.net/blog/2015/5/24/unit-test-how-private-data
+
+### Registers
+
+http://vandervoord.net/blog/2015/5/24/unit-test-how-registers
+http://vandervoord.net/blog/2015/5/24/unit-test-how-faking-changing-registers
+http://vandervoord.net/blog/2015/5/24/unit-test-how-verifying-multiple-register-writes
+
 
 ### CANOpen
 
