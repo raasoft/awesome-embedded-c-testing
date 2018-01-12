@@ -11,8 +11,8 @@
 - [Testing Techniques](#techs)
     - [RTOS](#rtos)
     - [main](#main)
-    - [Infinite Loops](#Infinite Loops)
-    - [Private data](#Private data)
+    - [Infinite Loops](#Infinite)
+    - [Private data](#Private)
     - [Registers](#Registers)
     - [CANOpen](#canopen)
         - [Open Source](#open-source)
@@ -50,6 +50,7 @@ http://blog.wingman-sw.com/archives/303
 ### main
 
 http://vandervoord.net/blog/2015/5/19/unit-test-how-main-
+http://www.methodsandtools.com/archive/archive.php?id=59p3
 
 ### Infinite Loops
 
