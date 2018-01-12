@@ -10,7 +10,10 @@
 
 - [Testing Techniques](#techs)
     - [RTOS](#rtos)
-    - [CoAP](#coap)
+    - [main](#main)
+    - [Infinite Loops](#Infinite Loops)
+    - [Private data](#Private data)
+    - [Registers](#Registers)
     - [CANOpen](#canopen)
         - [Open Source](#open-source)
         - [Proprietary](#proprietary)
@@ -62,6 +65,7 @@ http://vandervoord.net/blog/2015/5/24/unit-test-how-registers
 http://vandervoord.net/blog/2015/5/24/unit-test-how-faking-changing-registers
 http://vandervoord.net/blog/2015/5/24/unit-test-how-verifying-multiple-register-writes
 
+## Tools for Integration
 
 ### CANOpen
 
